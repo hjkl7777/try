@@ -30,7 +30,7 @@
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +57,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1598" />
-    <option name="y" value="196" />
+    <option name="x" value="1695" />
+    <option name="y" value="43" />
     <option name="width" value="1920" />
     <option name="height" value="1177" />
   </component>
@@ -130,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560082069593</updated>
       <workItem from="1560082071028" duration="27000" />
-      <workItem from="1560082170106" duration="2322000" />
+      <workItem from="1560082170106" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="版本1">
       <created>1560082220444</created>
@@ -160,15 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560084898202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改为ssssss111111">
+      <created>1560085053870</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560085053870</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2349000" />
+    <option name="totallyTimeSpent" value="2836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1564" y="328" width="1920" height="1177" extended-state="0" />
-    <editor active="true" />
+    <frame x="1695" y="43" width="1920" height="1177" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -185,10 +191,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49840257" visible="true" weight="0.3299539" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49840257" visible="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49893504" weight="0.3299539" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50159746" side_tool="true" visible="true" weight="0.3299539" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159746" side_tool="true" visible="true" weight="0.3299539" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,7 +240,9 @@
     <MESSAGE value="版本2" />
     <MESSAGE value="xxxxxx" />
     <MESSAGE value="修改sysout" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改sysout" />
+    <MESSAGE value="修改为ssssss111111" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改为ssssss111111" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.iml">
@@ -246,7 +254,7 @@
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
