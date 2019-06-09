@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05757d99-3f1d-49be-bcef-ca0179659128" name="Default Changelist" comment="">
+    <list default="true" id="05757d99-3f1d-49be-bcef-ca0179659128" name="Default Changelist" comment="rrr">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Hello.java" afterDir="false" />
     </list>
@@ -30,7 +30,7 @@
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,6 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -171,10 +172,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2836000" />
+    <option name="totallyTimeSpent" value="2963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1695" y="43" width="1920" height="1177" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -241,7 +243,8 @@
     <MESSAGE value="xxxxxx" />
     <MESSAGE value="修改sysout" />
     <MESSAGE value="修改为ssssss111111" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改为ssssss111111" />
+    <MESSAGE value="rrr" />
+    <option name="LAST_COMMIT_MESSAGE" value="rrr" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -254,7 +257,7 @@
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
           </folding>
         </state>
       </provider>
