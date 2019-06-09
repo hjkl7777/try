@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05757d99-3f1d-49be-bcef-ca0179659128" name="Default Changelist" comment="" />
+    <list default="true" id="05757d99-3f1d-49be-bcef-ca0179659128" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Hello.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +30,7 @@
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,8 +57,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1599" />
-    <option name="y" value="337" />
+    <option name="x" value="1601" />
+    <option name="y" value="180" />
     <option name="width" value="1920" />
     <option name="height" value="1177" />
   </component>
@@ -127,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560082069593</updated>
       <workItem from="1560082071028" duration="27000" />
-      <workItem from="1560082170106" duration="473000" />
+      <workItem from="1560082170106" duration="2167000" />
     </task>
     <task id="LOCAL-00001" summary="版本1">
       <created>1560082220444</created>
@@ -136,14 +139,28 @@
       <option name="project" value="LOCAL" />
       <updated>1560082220444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="版本2">
+      <created>1560082833842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560082833842</updated>
+    </task>
+    <task id="LOCAL-00003" summary="xxxxxx">
+      <created>1560084325047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560084325047</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500000" />
+    <option name="totallyTimeSpent" value="2194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1554" y="236" width="1920" height="1177" extended-state="0" />
+    <frame x="1633" y="450" width="1920" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
@@ -161,10 +178,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946752" visible="true" weight="0.3299539" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49840257" visible="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" visible="true" weight="0.3299539" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49893504" weight="0.3299539" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159746" side_tool="true" visible="true" weight="0.3299539" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -207,7 +224,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="版本1" />
-    <option name="LAST_COMMIT_MESSAGE" value="版本1" />
+    <MESSAGE value="版本2" />
+    <MESSAGE value="xxxxxx" />
+    <option name="LAST_COMMIT_MESSAGE" value="xxxxxx" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.iml">
@@ -219,7 +238,7 @@
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
           </folding>
         </state>
       </provider>
