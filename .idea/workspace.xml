@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05757d99-3f1d-49be-bcef-ca0179659128" name="Default Changelist" comment="rrr">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="05757d99-3f1d-49be-bcef-ca0179659128" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/com/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Hello.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="76">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding>
                 <element signature="e#78#79#0" expanded="true" />
                 <element signature="e#124#125#0" expanded="true" />
@@ -168,11 +167,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560085053870</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="44444">
+      <created>1560086010656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560086010656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2963000" />
+    <option name="totallyTimeSpent" value="3064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1695" y="43" width="1920" height="1177" extended-state="0" />
@@ -244,7 +250,8 @@
     <MESSAGE value="修改sysout" />
     <MESSAGE value="修改为ssssss111111" />
     <MESSAGE value="rrr" />
-    <option name="LAST_COMMIT_MESSAGE" value="rrr" />
+    <MESSAGE value="44444" />
+    <option name="LAST_COMMIT_MESSAGE" value="44444" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -253,8 +260,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="76">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
             <element signature="e#124#125#0" expanded="true" />
