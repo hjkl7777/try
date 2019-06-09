@@ -26,10 +26,10 @@
         <entry file="file://$PROJECT_DIR$/src/com/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
               <folding>
                 <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,11 +174,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560086010656</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="9999">
+      <created>1560086109807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560086109807</updated>
+    </task>
+    <task id="LOCAL-00008" summary="9999">
+      <created>1560086152660</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560086152660</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3064000" />
+    <option name="totallyTimeSpent" value="3165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1695" y="43" width="1920" height="1177" extended-state="0" />
@@ -251,7 +265,8 @@
     <MESSAGE value="修改为ssssss111111" />
     <MESSAGE value="rrr" />
     <MESSAGE value="44444" />
-    <option name="LAST_COMMIT_MESSAGE" value="44444" />
+    <MESSAGE value="9999" />
+    <option name="LAST_COMMIT_MESSAGE" value="9999" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -261,10 +276,10 @@
     <entry file="file://$PROJECT_DIR$/src/com/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
           </folding>
         </state>
       </provider>
